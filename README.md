@@ -11,7 +11,7 @@ This project implements an unbeatable AI for the classic game of Tic Tac Toe.
 ## How to Use
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Run the `ticTacToeAi.py` file using Python 3.
+3. Run the `tictactoe.py` file using Python 3.
 
 ```bash
 python tictactoe.py
